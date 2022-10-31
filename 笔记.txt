@@ -1,5 +1,9 @@
-nvm ls-remote£ºÁĞ³öËùÓĞ¿ÉÒÔ°²×°µÄnode°æ±¾ºÅ
-nvm install v10.4.0£º°²×°Ö¸¶¨°æ±¾ºÅµÄnode
-nvm use v10.3.0£ºÇĞ»»nodeµÄ°æ±¾£¬Õâ¸öÊÇÈ«¾ÖµÄ
-nvm current£ºµ±Ç°node°æ±¾
-nvm ls£ºÁĞ³öËùÓĞÒÑ¾­°²×°µÄnode°æ±¾
+nvm ls-remoteï¼šåˆ—å‡ºæ‰€æœ‰å¯ä»¥å®‰è£…çš„nodeç‰ˆæœ¬å·
+nvm install v10.4.0ï¼šå®‰è£…æŒ‡å®šç‰ˆæœ¬å·çš„node
+nvm use v10.3.0ï¼šåˆ‡æ¢nodeçš„ç‰ˆæœ¬ï¼Œè¿™ä¸ªæ˜¯å…¨å±€çš„
+nvm currentï¼šå½“å‰nodeç‰ˆæœ¬
+nvm lsï¼šåˆ—å‡ºæ‰€æœ‰å·²ç»å®‰è£…çš„nodeç‰ˆæœ¬
+
+
+http://www.npmmirror.com/
+npm install -g cnpm --registry=https://registry.npmmirror.com
